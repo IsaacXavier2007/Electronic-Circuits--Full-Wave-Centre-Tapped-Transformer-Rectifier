@@ -16,6 +16,7 @@ To implement a full wave centre tapped rectifier with and without filter and to 
 <img width="1600" height="1285" alt="image" src="https://github.com/user-attachments/assets/8bbf440a-258b-4e19-8161-53002dc200ff" />
 <img width="1026" height="1360" alt="image" src="https://github.com/user-attachments/assets/cf609550-02a7-475d-9d2f-62fc7360bf22" />
 <img width="1026" height="1343" alt="image" src="https://github.com/user-attachments/assets/723a39fd-750d-4743-80b1-f99bedfd25ca" />
+
 ## RESULT:
 <img width="1600" height="890" alt="image" src="https://github.com/user-attachments/assets/fca22ea8-39c1-45d8-8b14-31ec55b7554b" />
 
